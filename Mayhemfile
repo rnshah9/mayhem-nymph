@@ -1,0 +1,6 @@
+project: rnshah9/mayhem-nymph
+target: nymph
+
+cmds:
+  - cmd: /repo/nymph -r @@
+    filepath: /test.n
