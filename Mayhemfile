@@ -1,6 +1,5 @@
 project: rnshah9/mayhem-nymph
 target: nymph
-image: ghcr.io/rnshah9/playground:nymph
 tests:
   - file://libs/String.n
 
