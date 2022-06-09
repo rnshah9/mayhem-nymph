@@ -1,8 +1,8 @@
-project: rnshah9/mayhem-nymph
+project: nymph
 target: nymph
-tests:
+testsuite:
   - file://libs/String.n
 
 cmds:
-  - cmd: /repo/nymph -r @@
+  - cmd: /repo/nymph -r /test.n
     filepath: /test.n
