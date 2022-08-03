@@ -4,5 +4,4 @@ testsuite:
   - file://libs/String.n
 
 cmds:
-  - cmd: /repo/nymph -r /test.n
-    filepath: /test.n
+  - cmd: /nymph -r @@
